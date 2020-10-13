@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nifty xmlns="http://nifty-gui.lessvoid.com/nifty-gui" 
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+       xsi:schemaLocation="https://raw.githubusercontent.com/void256/nifty-gui/1.4/nifty-core/src/main/resources/nifty.xsd https://raw.githubusercontent.com/void256/nifty-gui/1.4/nifty-core/src/main/resources/nifty.xsd">
+    <!-- +++++++++++++++++++++++++++++++++++++++ -->
+    <!-- start screen -->
+    <!-- +++++++++++++++++++++++++++++++++++++++ -->
+    <useStyles filename="nifty-default-styles.xml"/>
+    <useControls filename="nifty-default-controls.xml"/>
+    
+    <screen id="bootScreen-wqhd" controller="com.aerolitos.prj44.BootScreenController">
+        <layer id="background" childLayout="center">
+            <panel id="panel1" width="100%" height="100%" childLayout="center">
+                <image filename="Interface/Images/aerolitos-logo.png" width="2560px" height="1440px">
+                    <effect>
+                        <onStartScreen name="fade" start="#0" end="#f" length="500" neverStopRendering="true"/>
+                        <onEndScreen name="fade" start="#f" end="#0" length="500" startDelay="1500" neverStopRendering="true"/>
+                    </effect>
+                </image>
+            </panel>
+        </layer>
+    </screen>
+    <screen id="bootScreen-fhd" controller="com.aerolitos.prj44.BootScreenController">
+        <layer id="background" childLayout="center">
+            <panel id="panel1" width="100%" height="100%" childLayout="center">
+                <image filename="Interface/Images/aerolitos-logo.png" width="1920px" height="1080px">
+                    <effect>
+                        <onStartScreen name="fade" start="#0" end="#f" length="500" neverStopRendering="true"/>
+                        <onEndScreen name="fade" start="#f" end="#0" length="500" startDelay="1500" neverStopRendering="true"/>
+                    </effect>
+                </image>
+            </panel>
+        </layer>
+    </screen>
+    <screen id="bootScreen-hd" controller="com.aerolitos.prj44.BootScreenController">
+        <layer id="background" childLayout="center">
+            <panel id="panel1" width="100%" height="100%" childLayout="center">
+                <image filename="Interface/Images/aerolitos-logo.png" width="1280px" height="720px">
+                    <effect>
+                       <onStartScreen name="fade" start="#0" end="#f" length="500" neverStopRendering="true"/>
+                       <onEndScreen name="fade" start="#f" end="#0" length="500" startDelay="1500" neverStopRendering="true"/>
+                   </effect>
+                </image>
+            </panel>
+        </layer>
+    </screen>
+    <screen id="bootScreen-low" controller="com.aerolitos.prj44.BootScreenController">
+        <layer id="background" childLayout="center">
+            <panel id="panel1" width="100%" height="100%" childLayout="center">
+                <image filename="Interface/Images/aerolitos-logo.png" width="720px" height="404px">
+                    <effect>
+                        <onStartScreen name="fade" start="#0" end="#f" length="500" neverStopRendering="true"/>
+                        <onEndScreen name="fade" start="#f" end="#0" length="500" startDelay="1500" neverStopRendering="true"/>
+                    </effect>
+                </image>
+            </panel>
+        </layer>
+    </screen>
+</nifty>

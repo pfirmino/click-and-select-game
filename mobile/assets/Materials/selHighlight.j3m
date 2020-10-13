@@ -1,0 +1,11 @@
+Material selHighlight : Common/MatDefs/Misc/Unshaded.j3md {
+     MaterialParameters {
+        AlphaDiscardThreshold : 0.0
+        ColorMap : "Textures/selHighlight.png"
+     }
+    AdditionalRenderState {
+      DepthWrite On
+      ColorWrite On
+      DepthTest On
+      Blend Alpha
+}

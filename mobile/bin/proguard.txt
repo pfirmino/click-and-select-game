@@ -1,0 +1,6 @@
+# view AndroidManifest.xml #generated:4
+-keep class com.aerolitos.project44.MainActivity { <init>(...); }
+
+# view res/layout/main.xml #generated:3
+-keep class com.aerolitos.project44.MainActivity$JmeFragment { <init>(...); }
+

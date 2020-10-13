@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nifty xmlns="http://nifty-gui.lessvoid.com/nifty-gui" 
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+       xsi:schemaLocation="https://raw.githubusercontent.com/void256/nifty-gui/1.4/nifty-core/src/main/resources/nifty.xsd https://raw.githubusercontent.com/void256/nifty-gui/1.4/nifty-core/src/main/resources/nifty.xsd">
+    <!-- +++++++++++++++++++++++++++++++++++++++ -->
+    <!-- start screen -->
+    <!-- +++++++++++++++++++++++++++++++++++++++ -->
+    
+    <useStyles filename="nifty-default-styles.xml"/>
+    <useControls filename="nifty-default-controls.xml"/>
+    
+    <controlDefinition name = "loadingbar-wqhd" controller = "com.aerolitos.prj44.LoadingScreenController">
+        <image filename="Interface/Images/loadingBar-border-64.png" childLayout="absolute" imageMode="resize:32,0,32,32,32,0,32,0,32,0,32,32">
+            <image id="progressbar" x="0" y="0" filename="Interface/Images/loadingBar-inner-64.png" height="100%" imageMode="resize:32,0,32,32,32,0,32,0,32,0,32,32" />
+        </image>
+    </controlDefinition>
+    
+    <screen id="loadingScreen-wqhd" controller="com.aerolitos.prj44.LoadingScreenController">
+        <layer id="background" childLayout="center">
+            <image filename="Interface/Images/loadingScr.png" width="2560px" height="1440px"></image>
+        </layer>
+        <layer id="overlay" childLayout="vertical">
+            <panel id="space" height="70%"></panel>
+            <panel width="100%" height="30%" childLayout="vertical">
+                <panel id = "loadingpanel" childLayout="vertical" align="center" valign="center" height="64px" width="70%">
+                    <control name="loadingbar-wqhd" align="center" valign="center" width="100%" height="100%" />
+                    <text id="loadingtext" font="Interface/Fonts/Calibri50.fnt" align="center" text="checking for updates..."/>
+                </panel>
+                <text width="100%" height="80%" font="Interface/Fonts/Calibri50.fnt" text="\#888888#Cratera v0.2, by Aerolitos 2019 ©" textHAlign="center" textVAlign="bottom"/>
+            </panel>
+        </layer>
+    </screen>
+    
+    <controlDefinition name = "loadingbar-fhd" controller = "com.aerolitos.prj44.LoadingScreenController">
+        <image filename="Interface/Images/loadingBar-border-32.png" childLayout="absolute" imageMode="resize:16,0,16,16,16,0,16,0,16,0,16,16">
+            <image id="progressbar" x="0" y="0" filename="Interface/Images/loadingBar-inner-32.png" height="100%" imageMode="resize:16,0,16,16,16,0,16,0,16,0,16,16" />
+        </image>
+    </controlDefinition>
+    
+    <screen id="loadingScreen-fhd" controller="com.aerolitos.prj44.LoadingScreenController">
+        <layer id="background" childLayout="center">
+            <image filename="Interface/Images/loadingScr.png" width="1920px" height="1080px"></image>
+        </layer>
+        <layer id="overlay" childLayout="vertical">
+            <panel id="space" height="70%"></panel>
+            <panel width="100%" height="30%" childLayout="vertical">
+                <panel id = "loadingpanel" childLayout="vertical" align="center" valign="center" height="32px" width="70%">
+                    <control name="loadingbar-fhd" align="center" valign="center" width="100%" height="100%" />
+                    <text id="loadingtext" font="Interface/Fonts/Calibri35.fnt" align="center" text="checking for updates..."/>
+                </panel>
+                <text width="100%" height="80%" font="Interface/Fonts/Calibri35.fnt" text="\#888888#Cratera v0.2, by Aerolitos 2019 ©" textHAlign="center" textVAlign="bottom"/>
+            </panel>
+        </layer>
+    </screen>
+    
+    <controlDefinition name = "loadingbar-hd" controller = "com.aerolitos.prj44.LoadingScreenController">
+        <image filename="Interface/Images/loadingBar-border-32.png" childLayout="absolute" imageMode="resize:16,0,16,16,16,0,16,0,16,0,16,16">
+            <image id="progressbar" x="0" y="0" filename="Interface/Images/loadingBar-inner-32.png" height="100%" imageMode="resize:16,0,16,16,16,0,16,0,16,0,16,16" />
+        </image>
+    </controlDefinition>
+    
+    <screen id="loadingScreen-hd" controller="com.aerolitos.prj44.LoadingScreenController">
+        <layer id="background" childLayout="center">
+            <image filename="Interface/Images/loadingScr.png" width="1280px" height="720px"></image>
+        </layer>
+        <layer id="overlay" childLayout="vertical">
+            <panel id="space" height="70%"></panel>
+            <panel width="100%" height="30%" childLayout="vertical">
+                <panel id = "loadingpanel" childLayout="vertical" align="center" valign="center" height="32px" width="70%">
+                    <control name="loadingbar-hd" align="center" valign="center" width="100%" height="100%" />
+                    <text id="loadingtext" font="Interface/Fonts/Calibri25.fnt" align="center" text="checking for updates..."/>
+                </panel>
+                <text width="100%" height="80%" font="Interface/Fonts/Calibri25.fnt" text="\#888888#Cratera v0.2, by Aerolitos 2019 ©" textHAlign="center" textVAlign="bottom"/>
+            </panel>
+        </layer>
+    </screen>
+    
+    <controlDefinition name = "loadingbar-low" controller = "com.aerolitos.prj44.LoadingScreenController">
+        <image filename="Interface/Images/loadingBar-border-16.png" childLayout="absolute" imageMode="resize:8,0,8,8,8,0,8,0,8,0,8,8">
+            <image id="progressbar" x="0" y="0" filename="Interface/Images/loadingBar-inner-16.png" height="100%" imageMode="resize:8,0,8,8,8,0,8,0,8,0,8,8" />
+        </image>
+    </controlDefinition>
+    
+    <screen id="loadingScreen-low" controller="com.aerolitos.prj44.LoadingScreenController">
+        <layer id="background" childLayout="center">
+            <image filename="Interface/Images/loadingScr.png" width="720px" height="404px"></image>
+        </layer>
+        <layer id="overlay" childLayout="vertical">
+            <panel height="70%"></panel>
+            <panel width="100%" height="30%" childLayout="vertical">
+                <panel id = "loadingpanel" childLayout="vertical" align="center" valign="center" height="16px" width="70%">
+                    <control name="loadingbar-low" align="center" valign="center" width="100%" height="100%" />
+                    <text id="loadingtext" font="Interface/Fonts/Calibri16.fnt" align="center" text="checking for updates..."/>
+                </panel>
+                <text width="100%" height="80%" font="Interface/Fonts/Calibri16.fnt" text="\#888888#Cratera v0.2, by Aerolitos 2019 ©" textHAlign="center" textVAlign="bottom"/>
+            </panel>
+        </layer>
+    </screen>
+</nifty>
