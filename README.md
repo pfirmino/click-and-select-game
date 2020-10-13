@@ -16,7 +16,8 @@ The apk was compiled and tested in Galaxy S7, and everything worked as expected.
 
 ## Screenshots
 **Splash Screen**
-<img src="https://github.com/pfirmino/click-and-select-game/blob/master/screenshots/01_splashscreen.jpg?raw=true" width="320">
+
+![Splash Screen](https://github.com/pfirmino/click-and-select-game/blob/master/screenshots/01_splashscreen.jpg?raw=true | width=320)
 
 **Loading Screen**
 <br><img src="https://github.com/pfirmino/click-and-select-game/blob/master/screenshots/02_loadingScreen.jpg?raw=true" width="320">
