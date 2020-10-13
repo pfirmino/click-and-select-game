@@ -1,20 +1,20 @@
 # click-and-select-game
 A simple click and select system within a 3D world map for games, developed using Java and JME plataform.
 
-# Objective
+<h2>Objective</h2>
 Implementing the Nifty GUI system to change between the main framework screens, in this case: Splash Screen, Loading Screen, Main Screen (Menu) and World Map Screen.
 After that, a simple select and gesture system was implemented comprising 3 functionalities:
 * Select any character in the 3D world map
 * Deselect all of them by tapping twice anywhere on the floor
 * Identify 2 fingers on the screen and if it's true, only if it's true, move the camera in the world.
 
-# Where is the main source code?
+<h2>Where is the main source code?</h2>
 You can find the files under the following package `com.aerolitos.prj44`, in the `./src` path.
 
-# Testing
+<h2>Testing</h2>
 The apk was compiled and tested in Galaxy S7, and everything worked as expected. Bellow You'll find the screenshots of the application.
 
-# Screenshots
+<h2>Screenshots</h2>
 <strong>Splash Screen</strong>
 <br><img src="https://github.com/pfirmino/click-and-select-game/blob/master/screenshots/01_splashscreen.jpg?raw=true" width="320">
 
