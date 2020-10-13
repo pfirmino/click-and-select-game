@@ -8,6 +8,9 @@ After that, a simple select and gesture system was implemented comprising 3 func
 * Deselect all of them by tapping twice anywhere on the floor
 * Identify 2 fingers on the screen and if it's true, only if it's true, move the camera in the world.
 
+# Where is the main source code?
+You can find the files under the following package `com.aerolitos.prj44`, in the `./src` path.
+
 # Testing
 The apk was compiled and tested in Galaxy S7, and everything worked as expected. Bellow You'll find the screenshots of the application.
 
