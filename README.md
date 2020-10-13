@@ -17,24 +17,27 @@ The apk was compiled and tested in Galaxy S7, and everything worked as expected.
 ## Screenshots
 **Splash Screen**
 
-![Splash Screen](https://github.com/pfirmino/click-and-select-game/blob/master/screenshots/01_splashscreen.jpg?raw=true | width=320)
+<br><img src="https://github.com/pfirmino/click-and-select-game/blob/master/screenshots/01_splashscreen.jpg?raw=true" width="320"/>
 
 **Loading Screen**
-<br><img src="https://github.com/pfirmino/click-and-select-game/blob/master/screenshots/02_loadingScreen.jpg?raw=true" width="320">
+
+<br><img src="https://github.com/pfirmino/click-and-select-game/blob/master/screenshots/02_loadingScreen.jpg?raw=true" width="320"/>
 
 **Main Screen**
+
 Here you'll need to single tap to continue (sorry rsrsrs)
-<br><img src="https://github.com/pfirmino/click-and-select-game/blob/master/screenshots/03_mainscreen.jpg?raw=true" width="320">
+<br><img src="https://github.com/pfirmino/click-and-select-game/blob/master/screenshots/03_mainscreen.jpg?raw=true" width="320"/>
 
 **World Map Screen**
+
 Just one character selected
-<br><img src="https://github.com/pfirmino/click-and-select-game/blob/master/screenshots/04_1_worldMap.jpg?raw=true" width="320">
+<br><img src="https://github.com/pfirmino/click-and-select-game/blob/master/screenshots/04_1_worldMap.jpg?raw=true" width="320"/>
 
 Two characters selected
-<br><img src="https://github.com/pfirmino/click-and-select-game/blob/master/screenshots/04_2_worldMap.jpg?raw=true" width="320">
+<br><img src="https://github.com/pfirmino/click-and-select-game/blob/master/screenshots/04_2_worldMap.jpg?raw=true" width="320"/>
 
 None selected by tapping twice anywhere on the floor
-<br><img src="https://github.com/pfirmino/click-and-select-game/blob/master/screenshots/04_3_worldMap.jpg?raw=true" width="320">
+<br><img src="https://github.com/pfirmino/click-and-select-game/blob/master/screenshots/04_3_worldMap.jpg?raw=true" width="320"/>
 
 Camera Moved
-<br><img src="https://github.com/pfirmino/click-and-select-game/blob/master/screenshots/04_4_worldMap.jpg?raw=true" width="320">
+<br><img src="https://github.com/pfirmino/click-and-select-game/blob/master/screenshots/04_4_worldMap.jpg?raw=true" width="320"/>
