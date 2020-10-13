@@ -1,5 +1,8 @@
-# click-and-select-game
-A simple click and select system within a 3D world map for games, developed using Java and JME plataform.
+# Click (Touch) and Select Game
+A simple click(touch) and select system within a 3D world map for games, developed using Java and JME plataform.
+
+## Screenshots
+![Screenshot](https://github.com/pfirmino/click-and-select-game/blob/master/screenshots/screenshots.jpg?raw=true)
 
 ## Objective
 Implementing the Nifty GUI system to change between the main framework screens, in this case: Splash Screen, Loading Screen, Main Screen (Menu) and World Map Screen.
@@ -13,31 +16,3 @@ You can find the files under the following package `com.aerolitos.prj44`, in the
 
 ## Testing 
 The apk was compiled and tested in Galaxy S7, and everything worked as expected. Bellow You'll find the screenshots of the application.
-
-## Screenshots
-**Splash Screen**
-
-<br><img src="https://github.com/pfirmino/click-and-select-game/blob/master/screenshots/01_splashscreen.jpg?raw=true" width="320"/>
-
-**Loading Screen**
-
-<br><img src="https://github.com/pfirmino/click-and-select-game/blob/master/screenshots/02_loadingScreen.jpg?raw=true" width="320"/>
-
-**Main Screen**
-
-Here you'll need to single tap to continue (sorry rsrsrs)
-<br><img src="https://github.com/pfirmino/click-and-select-game/blob/master/screenshots/03_mainscreen.jpg?raw=true" width="320"/>
-
-**World Map Screen**
-
-Just one character selected
-<br><img src="https://github.com/pfirmino/click-and-select-game/blob/master/screenshots/04_1_worldMap.jpg?raw=true" width="320"/>
-
-Two characters selected
-<br><img src="https://github.com/pfirmino/click-and-select-game/blob/master/screenshots/04_2_worldMap.jpg?raw=true" width="320"/>
-
-None selected by tapping twice anywhere on the floor
-<br><img src="https://github.com/pfirmino/click-and-select-game/blob/master/screenshots/04_3_worldMap.jpg?raw=true" width="320"/>
-
-Camera Moved
-<br><img src="https://github.com/pfirmino/click-and-select-game/blob/master/screenshots/04_4_worldMap.jpg?raw=true" width="320"/>
