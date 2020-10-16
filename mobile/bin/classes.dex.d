@@ -1,28 +1,27 @@
-E:\projects\prj44\mobile\bin\classes.dex : \
-E:\projects\prj44\mobile\bin\classes\com\aerolitos\project44\BuildConfig.class \
-E:\projects\prj44\mobile\bin\classes\com\aerolitos\project44\MainActivity$JmeFragment.class \
-E:\projects\prj44\mobile\bin\classes\com\aerolitos\project44\MainActivity.class \
-E:\projects\prj44\mobile\bin\classes\com\aerolitos\project44\R$attr.class \
-E:\projects\prj44\mobile\bin\classes\com\aerolitos\project44\R$drawable.class \
-E:\projects\prj44\mobile\bin\classes\com\aerolitos\project44\R$id.class \
-E:\projects\prj44\mobile\bin\classes\com\aerolitos\project44\R$layout.class \
-E:\projects\prj44\mobile\bin\classes\com\aerolitos\project44\R$string.class \
-E:\projects\prj44\mobile\bin\classes\com\aerolitos\project44\R.class \
-E:\projects\prj44\mobile\bin\dexedLibs\jme3-plugins-3.2.4-stable-c75bd343068f95cc8616ff966e0f53fa.jar \
-E:\projects\prj44\mobile\bin\dexedLibs\nifty-default-controls-1.4.3-94fec8ef63a58b35b2985144d44d1682.jar \
-E:\projects\prj44\mobile\bin\dexedLibs\nifty-1.4.3-7ca2f7bf3b44b15974c2350b87b34ee6.jar \
-E:\projects\prj44\mobile\bin\dexedLibs\nifty-style-black-1.4.3-22f00e0c047063d64bf116b01375e1b6.jar \
-E:\projects\prj44\mobile\bin\dexedLibs\j-ogg-all-1.0.0-0d9793ed6d897c185bbc48c10d15a16b.jar \
-E:\projects\prj44\mobile\bin\dexedLibs\jme3-niftygui-3.2.4-stable-064cbd9ac64ea83ff3ae82b608612001.jar \
-E:\projects\prj44\mobile\bin\dexedLibs\jme3-networking-3.2.4-stable-12316ff9dc02d86fc31c57e2072d32f5.jar \
-E:\projects\prj44\mobile\bin\dexedLibs\jme3-android-native-3.2.4-stable-2d3a8d088916a64c4cb543a0f8d41a7b.jar \
-E:\projects\prj44\mobile\bin\dexedLibs\jme3-effects-3.2.4-stable-e703cc1c6a43d91dd71637ceb5494fdc.jar \
-E:\projects\prj44\mobile\bin\dexedLibs\gson-2.8.1-652f5c091bd61062638b2779cb4f6b38.jar \
-E:\projects\prj44\mobile\bin\dexedLibs\Project44-c49bf33efd23b8d654300d2efe91aca5.jar \
-E:\projects\prj44\mobile\bin\dexedLibs\jme3-bullet-3.2.4-stable-0d124851ebe955b148f879ffeddea7b4.jar \
-E:\projects\prj44\mobile\bin\dexedLibs\jme3-jogg-3.2.4-stable-b7688c7b2a816352ac19671ea176daa7.jar \
-E:\projects\prj44\mobile\bin\dexedLibs\jme3-core-3.2.4-stable-c9d4d16ec2ec39c5ebe131e09d5c9e09.jar \
-E:\projects\prj44\mobile\bin\dexedLibs\jme3-android-3.2.4-stable-12cec0f0c37d772e8a0d9c9fb640f132.jar \
-E:\projects\prj44\mobile\bin\dexedLibs\jme3-terrain-3.2.4-stable-28aa32eeba62a2d2a5a8f3b449d1d36f.jar \
-E:\projects\prj44\mobile\bin\dexedLibs\jsr305-2.0.2-57977ec68ec0a785ff2613710cd263ac.jar \
-E:\projects\prj44\mobile\bin\dexedLibs\jme3-bullet-native-android-3.2.4-stable-b616f804cf7b3ef7b059026c68d49d81.jar \
+C:\Users\pedro\OneDrive\햞ea de Trabalho\Dev Projects\ClickSelectGame\mobile\bin\classes.dex : \
+C:\Users\pedro\OneDrive\햞ea de Trabalho\Dev Projects\ClickSelectGame\mobile\bin\classes\com\aerolitos\project44\BuildConfig.class \
+C:\Users\pedro\OneDrive\햞ea de Trabalho\Dev Projects\ClickSelectGame\mobile\bin\classes\com\aerolitos\project44\MainActivity$JmeFragment.class \
+C:\Users\pedro\OneDrive\햞ea de Trabalho\Dev Projects\ClickSelectGame\mobile\bin\classes\com\aerolitos\project44\MainActivity.class \
+C:\Users\pedro\OneDrive\햞ea de Trabalho\Dev Projects\ClickSelectGame\mobile\bin\classes\com\aerolitos\project44\R$attr.class \
+C:\Users\pedro\OneDrive\햞ea de Trabalho\Dev Projects\ClickSelectGame\mobile\bin\classes\com\aerolitos\project44\R$drawable.class \
+C:\Users\pedro\OneDrive\햞ea de Trabalho\Dev Projects\ClickSelectGame\mobile\bin\classes\com\aerolitos\project44\R$id.class \
+C:\Users\pedro\OneDrive\햞ea de Trabalho\Dev Projects\ClickSelectGame\mobile\bin\classes\com\aerolitos\project44\R$layout.class \
+C:\Users\pedro\OneDrive\햞ea de Trabalho\Dev Projects\ClickSelectGame\mobile\bin\classes\com\aerolitos\project44\R$string.class \
+C:\Users\pedro\OneDrive\햞ea de Trabalho\Dev Projects\ClickSelectGame\mobile\bin\classes\com\aerolitos\project44\R.class \
+C:\Users\pedro\OneDrive\햞ea de Trabalho\Dev Projects\ClickSelectGame\mobile\bin\dexedLibs\jme3-effects-3.1.0-beta1-f2ef1275da2ee9304005cc9d94760181.jar \
+C:\Users\pedro\OneDrive\햞ea de Trabalho\Dev Projects\ClickSelectGame\mobile\bin\dexedLibs\jme3-bullet-native-android-3.1.0-3.1-beta2-b001-SNAPSHOT-SNAPSHOT-aaf3cb0ede54626e84ad4a5eed01cdd7.jar \
+C:\Users\pedro\OneDrive\햞ea de Trabalho\Dev Projects\ClickSelectGame\mobile\bin\dexedLibs\j-ogg-all-1.0.0-bb8ba293b3e97a7e7522774bb62dce63.jar \
+C:\Users\pedro\OneDrive\햞ea de Trabalho\Dev Projects\ClickSelectGame\mobile\bin\dexedLibs\jme3-niftygui-3.1.0-3.1-beta2-b001-SNAPSHOT-SNAPSHOT-0c333a775c1e39093261ef33d110939a.jar \
+C:\Users\pedro\OneDrive\햞ea de Trabalho\Dev Projects\ClickSelectGame\mobile\bin\dexedLibs\jme3-bullet-3.1.0-beta1-c6e5fba3966a06e2056a7a31afd893f4.jar \
+C:\Users\pedro\OneDrive\햞ea de Trabalho\Dev Projects\ClickSelectGame\mobile\bin\dexedLibs\jme3-terrain-3.1.0-beta1-69cb1990c53b77fe8c3a0c1e3b3cba1b.jar \
+C:\Users\pedro\OneDrive\햞ea de Trabalho\Dev Projects\ClickSelectGame\mobile\bin\dexedLibs\Project44-a1f01e6521ceae2d8bf7001ec7734547.jar \
+C:\Users\pedro\OneDrive\햞ea de Trabalho\Dev Projects\ClickSelectGame\mobile\bin\dexedLibs\jme3-plugins-3.1.0-beta1-3f08e164a43be49cc25001155b0628de.jar \
+C:\Users\pedro\OneDrive\햞ea de Trabalho\Dev Projects\ClickSelectGame\mobile\bin\dexedLibs\jme3-android-3.1.0-3.1-beta2-b001-SNAPSHOT-SNAPSHOT-ca0c62e0b3c14f17147f91a7de373ae3.jar \
+C:\Users\pedro\OneDrive\햞ea de Trabalho\Dev Projects\ClickSelectGame\mobile\bin\dexedLibs\nifty-1.4.2-5f65290ee83601ba7b36494fd430ab98.jar \
+C:\Users\pedro\OneDrive\햞ea de Trabalho\Dev Projects\ClickSelectGame\mobile\bin\dexedLibs\nifty-default-controls-1.4.2-facc640af7a707458835adfe022d0fc5.jar \
+C:\Users\pedro\OneDrive\햞ea de Trabalho\Dev Projects\ClickSelectGame\mobile\bin\dexedLibs\nifty-style-black-1.4.2-1b04d9e84f098d3a79012d11c093d238.jar \
+C:\Users\pedro\OneDrive\햞ea de Trabalho\Dev Projects\ClickSelectGame\mobile\bin\dexedLibs\jme3-android-native-3.1.0-3.1-beta2-b001-SNAPSHOT-SNAPSHOT-2de1c78cb4ef57f22385a91239c18a6b.jar \
+C:\Users\pedro\OneDrive\햞ea de Trabalho\Dev Projects\ClickSelectGame\mobile\bin\dexedLibs\jme3-core-3.1.0-beta1-1ce4113e9d6d26b3356133d64c386013.jar \
+C:\Users\pedro\OneDrive\햞ea de Trabalho\Dev Projects\ClickSelectGame\mobile\bin\dexedLibs\jsr305-2.0.2-f4248e614df846e5c4a062d49fbd0c37.jar \
+C:\Users\pedro\OneDrive\햞ea de Trabalho\Dev Projects\ClickSelectGame\mobile\bin\dexedLibs\jme3-jogg-3.1.0-3.1-beta2-b001-SNAPSHOT-SNAPSHOT-679afb42c56334f28b7e7f3c9d1d82a8.jar \
+C:\Users\pedro\OneDrive\햞ea de Trabalho\Dev Projects\ClickSelectGame\mobile\bin\dexedLibs\jme3-networking-3.1.0-3.1-beta2-b001-SNAPSHOT-SNAPSHOT-830a180b77498eeb5baaa165c70ac1b6.jar \

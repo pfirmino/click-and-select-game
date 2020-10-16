@@ -1,2 +1,2 @@
-E:\projects\prj44\mobile\bin\AndroidManifest.xml : \
-E:\projects\prj44\mobile\AndroidManifest.xml \
+C:\Users\pedro\OneDrive\Área de Trabalho\Dev Projects\ClickSelectGame\mobile\bin\AndroidManifest.xml : \
+C:\Users\pedro\OneDrive\Área de Trabalho\Dev Projects\ClickSelectGame\mobile\AndroidManifest.xml \

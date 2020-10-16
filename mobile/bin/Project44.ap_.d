@@ -1,60 +1,62 @@
-E:\projects\prj44\mobile\bin\Project44.ap_ \
- : E:\projects\prj44\mobile\res\drawable-hdpi\ic_launcher.png \
-E:\projects\prj44\mobile\res\drawable-ldpi\ic_launcher.png \
-E:\projects\prj44\mobile\res\drawable-mdpi\ic_launcher.png \
-E:\projects\prj44\mobile\res\drawable-xhdpi\ic_launcher.png \
-E:\projects\prj44\mobile\res\layout\main.xml \
-E:\projects\prj44\mobile\res\values\strings.xml \
-E:\projects\prj44\mobile\bin\res\drawable-hdpi\ic_launcher.png \
-E:\projects\prj44\mobile\bin\res\drawable-ldpi\ic_launcher.png \
-E:\projects\prj44\mobile\bin\res\drawable-mdpi\ic_launcher.png \
-E:\projects\prj44\mobile\bin\res\drawable-xhdpi\ic_launcher.png \
-E:\projects\prj44\mobile\assets\Interface \
-E:\projects\prj44\mobile\assets\MatDefs \
-E:\projects\prj44\mobile\assets\Materials \
-E:\projects\prj44\mobile\assets\META-INF \
-E:\projects\prj44\mobile\assets\Models \
-E:\projects\prj44\mobile\assets\Scenes \
-E:\projects\prj44\mobile\assets\Shaders \
-E:\projects\prj44\mobile\assets\Sounds \
-E:\projects\prj44\mobile\assets\Textures \
-E:\projects\prj44\mobile\assets\Interface\Fonts \
-E:\projects\prj44\mobile\assets\Interface\Images \
-E:\projects\prj44\mobile\assets\Interface\Screens \
-E:\projects\prj44\mobile\assets\Interface\Fonts\Calibri16.fnt \
-E:\projects\prj44\mobile\assets\Interface\Fonts\Calibri16.png \
-E:\projects\prj44\mobile\assets\Interface\Fonts\Calibri25.fnt \
-E:\projects\prj44\mobile\assets\Interface\Fonts\Calibri25.png \
-E:\projects\prj44\mobile\assets\Interface\Fonts\Calibri35.fnt \
-E:\projects\prj44\mobile\assets\Interface\Fonts\Calibri35.png \
-E:\projects\prj44\mobile\assets\Interface\Fonts\Calibri50.fnt \
-E:\projects\prj44\mobile\assets\Interface\Fonts\Calibri50.png \
-E:\projects\prj44\mobile\assets\Interface\Images\aerolitos-logo.png \
-E:\projects\prj44\mobile\assets\Interface\Images\aerolitos-logo.psd \
-E:\projects\prj44\mobile\assets\Interface\Images\loadingBar-border-16.png \
-E:\projects\prj44\mobile\assets\Interface\Images\loadingBar-border-32.png \
-E:\projects\prj44\mobile\assets\Interface\Images\loadingBar-border-64.png \
-E:\projects\prj44\mobile\assets\Interface\Images\loadingBar-inner-16.png \
-E:\projects\prj44\mobile\assets\Interface\Images\loadingBar-inner-32.png \
-E:\projects\prj44\mobile\assets\Interface\Images\loadingBar-inner-64.png \
-E:\projects\prj44\mobile\assets\Interface\Images\loadingScr.png \
-E:\projects\prj44\mobile\assets\Interface\Images\loadingScr.psd \
-E:\projects\prj44\mobile\assets\Interface\Images\mainScreen.psd \
-E:\projects\prj44\mobile\assets\Interface\Images\mainScreenBackground.png \
-E:\projects\prj44\mobile\assets\Interface\Images\MainScreen_1.psd \
-E:\projects\prj44\mobile\assets\Interface\Screens\BootScreen.xml \
-E:\projects\prj44\mobile\assets\Interface\Screens\LoadingScreen.xml \
-E:\projects\prj44\mobile\assets\Interface\Screens\MainScreen.xml \
-E:\projects\prj44\mobile\assets\Interface\Screens\WorldMapScreen.xml \
-E:\projects\prj44\mobile\assets\Materials\selHighlight.j3m \
-E:\projects\prj44\mobile\assets\Materials\stage1Ground.j3m \
-E:\projects\prj44\mobile\assets\Materials\standardChar.j3m \
-E:\projects\prj44\mobile\assets\META-INF\MANIFEST.MF \
-E:\projects\prj44\mobile\assets\Models\selHighlight.blend1 \
-E:\projects\prj44\mobile\assets\Models\selHighlight.j3o \
-E:\projects\prj44\mobile\assets\Models\standardChar.j3o \
-E:\projects\prj44\mobile\assets\Models\standardChar.max \
-E:\projects\prj44\mobile\assets\Scenes\stage1.blend1 \
-E:\projects\prj44\mobile\assets\Scenes\stage1.j3o \
-E:\projects\prj44\mobile\assets\Textures\selHighlight.png \
-E:\projects\prj44\mobile\bin\AndroidManifest.xml \
+C:\Users\pedro\OneDrive\햞ea de Trabalho\Dev Projects\ClickSelectGame\mobile\bin\Project44.ap_ \
+ : C:\Users\pedro\OneDrive\햞ea de Trabalho\Dev Projects\ClickSelectGame\mobile\res\drawable-hdpi\ic_launcher.png \
+C:\Users\pedro\OneDrive\햞ea de Trabalho\Dev Projects\ClickSelectGame\mobile\res\drawable-ldpi\ic_launcher.png \
+C:\Users\pedro\OneDrive\햞ea de Trabalho\Dev Projects\ClickSelectGame\mobile\res\drawable-mdpi\ic_launcher.png \
+C:\Users\pedro\OneDrive\햞ea de Trabalho\Dev Projects\ClickSelectGame\mobile\res\drawable-xhdpi\ic_launcher.png \
+C:\Users\pedro\OneDrive\햞ea de Trabalho\Dev Projects\ClickSelectGame\mobile\res\layout\main.xml \
+C:\Users\pedro\OneDrive\햞ea de Trabalho\Dev Projects\ClickSelectGame\mobile\res\values\strings.xml \
+C:\Users\pedro\OneDrive\햞ea de Trabalho\Dev Projects\ClickSelectGame\mobile\bin\res\drawable-hdpi\ic_launcher.png \
+C:\Users\pedro\OneDrive\햞ea de Trabalho\Dev Projects\ClickSelectGame\mobile\bin\res\drawable-ldpi\ic_launcher.png \
+C:\Users\pedro\OneDrive\햞ea de Trabalho\Dev Projects\ClickSelectGame\mobile\bin\res\drawable-mdpi\ic_launcher.png \
+C:\Users\pedro\OneDrive\햞ea de Trabalho\Dev Projects\ClickSelectGame\mobile\bin\res\drawable-xhdpi\ic_launcher.png \
+C:\Users\pedro\OneDrive\햞ea de Trabalho\Dev Projects\ClickSelectGame\mobile\assets\Interface \
+C:\Users\pedro\OneDrive\햞ea de Trabalho\Dev Projects\ClickSelectGame\mobile\assets\MatDefs \
+C:\Users\pedro\OneDrive\햞ea de Trabalho\Dev Projects\ClickSelectGame\mobile\assets\Materials \
+C:\Users\pedro\OneDrive\햞ea de Trabalho\Dev Projects\ClickSelectGame\mobile\assets\META-INF \
+C:\Users\pedro\OneDrive\햞ea de Trabalho\Dev Projects\ClickSelectGame\mobile\assets\Models \
+C:\Users\pedro\OneDrive\햞ea de Trabalho\Dev Projects\ClickSelectGame\mobile\assets\Scenes \
+C:\Users\pedro\OneDrive\햞ea de Trabalho\Dev Projects\ClickSelectGame\mobile\assets\Shaders \
+C:\Users\pedro\OneDrive\햞ea de Trabalho\Dev Projects\ClickSelectGame\mobile\assets\Sounds \
+C:\Users\pedro\OneDrive\햞ea de Trabalho\Dev Projects\ClickSelectGame\mobile\assets\Textures \
+C:\Users\pedro\OneDrive\햞ea de Trabalho\Dev Projects\ClickSelectGame\mobile\assets\Interface\Fonts \
+C:\Users\pedro\OneDrive\햞ea de Trabalho\Dev Projects\ClickSelectGame\mobile\assets\Interface\Images \
+C:\Users\pedro\OneDrive\햞ea de Trabalho\Dev Projects\ClickSelectGame\mobile\assets\Interface\Screens \
+C:\Users\pedro\OneDrive\햞ea de Trabalho\Dev Projects\ClickSelectGame\mobile\assets\Interface\Fonts\Calibri16.fnt \
+C:\Users\pedro\OneDrive\햞ea de Trabalho\Dev Projects\ClickSelectGame\mobile\assets\Interface\Fonts\Calibri16.png \
+C:\Users\pedro\OneDrive\햞ea de Trabalho\Dev Projects\ClickSelectGame\mobile\assets\Interface\Fonts\Calibri25.fnt \
+C:\Users\pedro\OneDrive\햞ea de Trabalho\Dev Projects\ClickSelectGame\mobile\assets\Interface\Fonts\Calibri25.png \
+C:\Users\pedro\OneDrive\햞ea de Trabalho\Dev Projects\ClickSelectGame\mobile\assets\Interface\Fonts\Calibri35.fnt \
+C:\Users\pedro\OneDrive\햞ea de Trabalho\Dev Projects\ClickSelectGame\mobile\assets\Interface\Fonts\Calibri35.png \
+C:\Users\pedro\OneDrive\햞ea de Trabalho\Dev Projects\ClickSelectGame\mobile\assets\Interface\Fonts\Calibri50.fnt \
+C:\Users\pedro\OneDrive\햞ea de Trabalho\Dev Projects\ClickSelectGame\mobile\assets\Interface\Fonts\Calibri50.png \
+C:\Users\pedro\OneDrive\햞ea de Trabalho\Dev Projects\ClickSelectGame\mobile\assets\Interface\Images\aerolitos-logo.png \
+C:\Users\pedro\OneDrive\햞ea de Trabalho\Dev Projects\ClickSelectGame\mobile\assets\Interface\Images\aerolitos-logo.psd \
+C:\Users\pedro\OneDrive\햞ea de Trabalho\Dev Projects\ClickSelectGame\mobile\assets\Interface\Images\avatar.psd \
+C:\Users\pedro\OneDrive\햞ea de Trabalho\Dev Projects\ClickSelectGame\mobile\assets\Interface\Images\InterfaceSheet.png \
+C:\Users\pedro\OneDrive\햞ea de Trabalho\Dev Projects\ClickSelectGame\mobile\assets\Interface\Images\InterfaceSheet.psd \
+C:\Users\pedro\OneDrive\햞ea de Trabalho\Dev Projects\ClickSelectGame\mobile\assets\Interface\Images\loadingBar-border-16.png \
+C:\Users\pedro\OneDrive\햞ea de Trabalho\Dev Projects\ClickSelectGame\mobile\assets\Interface\Images\loadingBar-border-32.png \
+C:\Users\pedro\OneDrive\햞ea de Trabalho\Dev Projects\ClickSelectGame\mobile\assets\Interface\Images\loadingBar-border-64.png \
+C:\Users\pedro\OneDrive\햞ea de Trabalho\Dev Projects\ClickSelectGame\mobile\assets\Interface\Images\loadingBar-inner-16.png \
+C:\Users\pedro\OneDrive\햞ea de Trabalho\Dev Projects\ClickSelectGame\mobile\assets\Interface\Images\loadingBar-inner-32.png \
+C:\Users\pedro\OneDrive\햞ea de Trabalho\Dev Projects\ClickSelectGame\mobile\assets\Interface\Images\loadingBar-inner-64.png \
+C:\Users\pedro\OneDrive\햞ea de Trabalho\Dev Projects\ClickSelectGame\mobile\assets\Interface\Images\loadingScr.png \
+C:\Users\pedro\OneDrive\햞ea de Trabalho\Dev Projects\ClickSelectGame\mobile\assets\Interface\Images\loadingScr.psd \
+C:\Users\pedro\OneDrive\햞ea de Trabalho\Dev Projects\ClickSelectGame\mobile\assets\Interface\Images\MainScreen.psd \
+C:\Users\pedro\OneDrive\햞ea de Trabalho\Dev Projects\ClickSelectGame\mobile\assets\Interface\Images\mainScreenBackground.png \
+C:\Users\pedro\OneDrive\햞ea de Trabalho\Dev Projects\ClickSelectGame\mobile\assets\Interface\Screens\BootScreen.xml \
+C:\Users\pedro\OneDrive\햞ea de Trabalho\Dev Projects\ClickSelectGame\mobile\assets\Interface\Screens\LoadingScreen.xml \
+C:\Users\pedro\OneDrive\햞ea de Trabalho\Dev Projects\ClickSelectGame\mobile\assets\Interface\Screens\MainScreen.xml \
+C:\Users\pedro\OneDrive\햞ea de Trabalho\Dev Projects\ClickSelectGame\mobile\assets\Interface\Screens\WorldMapScreen.xml \
+C:\Users\pedro\OneDrive\햞ea de Trabalho\Dev Projects\ClickSelectGame\mobile\assets\Materials\selHighlight.j3m \
+C:\Users\pedro\OneDrive\햞ea de Trabalho\Dev Projects\ClickSelectGame\mobile\assets\Materials\stage1Ground.j3m \
+C:\Users\pedro\OneDrive\햞ea de Trabalho\Dev Projects\ClickSelectGame\mobile\assets\Materials\standardChar.j3m \
+C:\Users\pedro\OneDrive\햞ea de Trabalho\Dev Projects\ClickSelectGame\mobile\assets\META-INF\MANIFEST.MF \
+C:\Users\pedro\OneDrive\햞ea de Trabalho\Dev Projects\ClickSelectGame\mobile\assets\Models\selHighlight.blend1 \
+C:\Users\pedro\OneDrive\햞ea de Trabalho\Dev Projects\ClickSelectGame\mobile\assets\Models\selHighlight.j3o \
+C:\Users\pedro\OneDrive\햞ea de Trabalho\Dev Projects\ClickSelectGame\mobile\assets\Models\standardChar.j3o \
+C:\Users\pedro\OneDrive\햞ea de Trabalho\Dev Projects\ClickSelectGame\mobile\assets\Models\standardChar.max \
+C:\Users\pedro\OneDrive\햞ea de Trabalho\Dev Projects\ClickSelectGame\mobile\assets\Scenes\stage1.blend1 \
+C:\Users\pedro\OneDrive\햞ea de Trabalho\Dev Projects\ClickSelectGame\mobile\assets\Scenes\stage1.j3o \
+C:\Users\pedro\OneDrive\햞ea de Trabalho\Dev Projects\ClickSelectGame\mobile\assets\Textures\selHighlight.png \
+C:\Users\pedro\OneDrive\햞ea de Trabalho\Dev Projects\ClickSelectGame\mobile\bin\AndroidManifest.xml \
